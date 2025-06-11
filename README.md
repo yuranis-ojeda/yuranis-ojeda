@@ -1,14 +1,14 @@
 # 👋 Hi there, I'm kevin! 🧙‍♂️
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Algorithm%20Alchemist;Highly-effective%20problem%20solver;Full-stack%20web%20and%20app%20developer;Experienced%20AI%20Enginener;8%2B%20years%20of%20coding%20experience;Eager%20to%20learn%20new%20tech&font=Fira%20Code&center=true&width=440&height=45&color=5cb4f7&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Algorithm%20Alchemist;Highly-effective%20problem%20solver;Full-stack%20web%20and%20app%20developer;Magical%20Blockchain%20Developer;Experienced%20AI%20Enginener;8%2B%20years%20of%20coding%20experience;Eager%20to%20learn%20new%20tech&font=Fira%20Code&center=true&width=440&height=45&color=5cb4f7&vCenter=true&pause=1000&size=22" />
 </p>
 
 ## Professional Summary
 
-<b>Experienced Full-Stack Developer with expertise in Web, Mobile, AI, and Algorithms</b> 👋
+<b>Experienced Full-Stack Developer with expertise in Web3, Smart Contract, Mobile, AI, and Algorithms</b> 👋
 
-- 🌐 Seasoned full-stack developer proficient in <span style="color: #61DAFB;">MERN</span>, <span style="color: #00D8FF;">MEAN</span> stack, <span style="color: #E535AB;">GraphQL</span>, <span style="color: #FFCA28;">Firebase</span>, and <span style="color: #4285F4;">Google Cloud</span>
+- 🌐 Seasoned full-stack developer proficient in <span style="color: #61DAFB;">MERN</span>, <span style="color: #00D8FF;">Web3</span> , <span style="color: #E535AB;">GraphQL</span>, <span style="color: #FFCA28;">Firebase</span>, and <span style="color: #4285F4;">Google Cloud</span>
 - 🔄 Expert in version control with <span style="color: #F05032;">Git</span>, ensuring efficient collaboration and code management
 - 📱 Skilled mobile app developer using <span style="color: #02569B;">Flutter</span> and <span style="color: #61DAFB;">React Native</span>, with seamless backend integration
 - 🛡️ Currently developing a Guard Management System using <span style="color: #02569B;">Flutter</span>, <span style="color: #FFCA28;">Firebase</span>, and <span style="color: #6DB33F;">Java Spring Boot</span>
@@ -26,7 +26,6 @@ I'm a firm believer in the power of open source and actively contribute to vario
 - 📊 [D3.js](https://github.com/d3/d3): Contributed to data visualization enhancements and bug fixes.
 
 I'm always looking for new exciting projects to contribute to. If you have an interesting open source project, feel free to reach out!
-
 
 ## Technical Skills
 
